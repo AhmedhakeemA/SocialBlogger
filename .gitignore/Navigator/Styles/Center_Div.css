@@ -1,0 +1,13 @@
+.centered{
+    text-align:center;
+}
+
+.centered2{
+    margin:0 auto;
+    display:table;
+}
+
+.centered3{
+    text-align:center;
+    color:blue;
+}

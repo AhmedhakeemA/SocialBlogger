@@ -1,0 +1,73 @@
+body {
+    background: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+}
+		.container{
+	
+    margin: auto;
+
+    width: 500px;
+    height: auto;
+    width: 60%;
+   margin-left: 400px;
+   margin-top: 200px;
+   
+
+    text-decoration: none;
+  
+    background-color: whitesmoke;
+    border-radius: 0 5px 5px 0;
+}
+
+
+		}
+		.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.side{
+
+	margin-top: 200px;
+	margin-left: 500px;
+}
+#img-upload{
+    width: 100%;
+       
+}
+
+#mySidenav a {
+    position: absolute;
+    left: 400px;
+    margin-top: 100px;
+   
+    padding: 10px;
+    width: 700px;
+    text-decoration: none;
+    font-size: 20px;
+        color: #fff;
+    background-color: #3071a9;
+    border-color: #285e8e;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+
+#about {
+    top: 20px;
+    background-color: #4CAF50;
+}
